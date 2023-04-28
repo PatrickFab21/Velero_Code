@@ -331,6 +331,9 @@ void loop(){
       ActualState = STATE_STORE_DATA_SD;
    }break;
   
+
+
+  
    case STATE_STORE_DATA_SD:{
 
       // open the file. 
