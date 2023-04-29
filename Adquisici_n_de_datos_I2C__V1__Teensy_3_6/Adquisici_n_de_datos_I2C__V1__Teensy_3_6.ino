@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include <gps.h>
 
 //------------COMUNIACIÓN POR I2C--------------
 
